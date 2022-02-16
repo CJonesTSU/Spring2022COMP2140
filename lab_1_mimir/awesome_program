@@ -1,0 +1,11 @@
+while true
+do
+  echo "This is the program that never ends"
+  sleep 1
+  echo "It just goes on and on my friends"
+  sleep 1
+  echo "Some students started running it not knowing what it was"
+  sleep 1
+  echo "And they'll continue running it forever just because\n"
+  sleep 1
+done
